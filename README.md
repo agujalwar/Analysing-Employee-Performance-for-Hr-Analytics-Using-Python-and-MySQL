@@ -1,4 +1,4 @@
-
+![cover page](https://github.com/agujalwar/Analysing-Employee-Performance-for-Hr-Analytics-Using-Python-and-MySQL/assets/125154280/d7f33b88-abe7-4470-bd62-549ecfd5b527)
 
 # Analysing-Employee-Performance-for-Hr-Analytics-Using-Python-and-MySQL
 In this project, I worked on a real-world dataset of the Employee's records. This project intends to evaluate the provided dataset, solve business problems on this dataset, and mine information insights. 
